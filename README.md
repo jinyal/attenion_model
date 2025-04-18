@@ -1,2 +1,1 @@
-# attenion_model
-Paper codes on Improving Rainfall-runoff Modeling Using an Attention-based Model
+#Paper codes on Improving Rainfall-runoff Modeling Using an Attention-based Model
